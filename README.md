@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheDragonHill
-- 📫 How to reach me HenrikHafner.de
+- 📫 How to reach me: HenrikHafner.de
 
 <!---
 TheDragonHill/TheDragonHill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
